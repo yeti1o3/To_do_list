@@ -1,11 +1,10 @@
-
 import './App.css';
-import LoginPage from './LoginPage';
+import ToDoList from './ToDolist';
 function App() {
   return (
     <div className="App">
-      <LoginPage/>
-    </div>
+  <ToDoList/>
+  </div>
   );
 }
 

@@ -1,0 +1,15 @@
+.current__Task {
+    padding: 10px;
+    border-radius: 8px;
+    margin: 10px;
+    background-color: rgb(187, 194, 195);
+}
+.current__TaskRow{
+    padding:10px;
+    background-color: rgb(218, 223, 226);
+    border-radius: 8px;
+    margin:10px;
+}
+.current__TaskRow:hover{
+    cursor:pointer;
+}

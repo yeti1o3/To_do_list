@@ -1,0 +1,22 @@
+.add__Task{
+    padding:10px;
+    border-radius: 5px;
+    background-color: rgb(187, 194, 195);
+    margin: 20px;
+}
+.add__Task input{
+    padding:10px;
+    border: none;
+    border-radius: 8px;
+}
+.add__Task button{
+    margin-left: 20px;
+}
+button{
+    padding:15px;
+    border-radius: 8px;
+    border:none;
+    font-size:medium;
+    font-weight: bolder;
+    background-color: rgb(182, 190, 196);
+}

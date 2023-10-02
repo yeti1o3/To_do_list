@@ -34,3 +34,6 @@ button:hover{
 .LoginPage__Title{
     font-weight: bolder;
 }
+.error{
+    font-size: smaller;
+}

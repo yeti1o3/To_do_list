@@ -1,0 +1,24 @@
+.main__Div{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.central__Div{
+    width:500px;
+    height: 600px;
+    background-color: rgb(218, 223, 226);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.complete__Task{
+width: 100%;
+}
+.create__Task{
+width: 100%;
+}
+button:hover{
+    cursor:pointer;
+}
